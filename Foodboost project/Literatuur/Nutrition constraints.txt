@@ -1,0 +1,56 @@
+1. Energie dagelijks (kcal) (dit is daily_kcal)
+---
+literatuur: https://www.aqua-calc.com/calculate/daily-calorie-needs
+man: 864 − 9.72 × age + PA × (14.2 × weight + 503 × height)
+vrouw: 387 − 7.31 × age + PA × (10.9 × weight + 660.7 × height)
+
+2. Natrium dagelijks (mg)
+---
+literatuur: https://www.nhs.uk/live-well/eat-well/food-types/salt-nutrition/
+maximaal 2400mg
+contraint: natrium <= 2400
+
+3. Eiwit dagelijks (g) (inclusief: ijzer 11mg?, vitamine B12 ??)
+---
+literatuur: Eiwit inname voor vegetariërs.docx (missende link)
+non-vegetariër: 0.830g / kg
+vegetariër minimaal: 0.996 g / kg (20% hoger)
+vegetariër gemiddeld: 1.038 g / kg (25% hoger)
+vegetariër maximaal: 1.079 g / kg (30% hoger)
+constraint: 0.996 <= eiwit <= 1.079
+
+4. Vezels dagelijks (g)
+---
+literatuur: https://www.omnicalculator.com/health/fiber#how-to-calculate-my-recommended-fiber-intake
+minimaal 14g per 1000kcal energie
+constraint: vezels >= (daily_kcal /1000) * 14
+
+5. Koolhydraten dagelijks (g)
+---
+literatuur: https://www.calculator.net/carbohydrate-calculator.html
+minimaal 45% van daily_kcal
+maximaal 65% van daily_kcal
+1g koolhydraten = 4 kcal
+constraint: (0.45 * daily_kcal) / 4 <= koolhydraten <= (0.65 * daily_kcal) / 4
+
+6. Waarvan suiker dagelijks (g)
+---
+literatuur: https://www.omnicalculator.com/health/sugar-intake
+maximaal 10% van daily_kcal
+1g suiker = 4 kcal
+constraint: (0.1 * daily_kcal) / 4 <= waarvan suiker
+
+7. vet dagelijks
+---
+literatuur: https://www.calculator.net
+minimaal 20% van daily_kcal
+maximaal 30% van daily_kcal
+1g vet = 9 kcal
+constraint: (0.2 * daily_kcal) / 9 <= vet <= (0.3 * daily_kcal) / 9
+
+8. waarvan verzadigd dagelijks
+---
+literatuur: https://www.calculator.net
+maximaal 10% van daily_kcal
+1g vet = 9 kcal
+constraint: (0.1 * daily_kcal) / 9 <= waarvan verzadigd
