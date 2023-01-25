@@ -1,42 +1,67 @@
 Personal portfolio Richal Rambaran - 19029217
 
-# DataCamp course
+# 1 DataCamp course
 All DataCamp course completion statements can be found [here](DataCamp-statements).
 
-# Data preprocessing
-## Data exploration
-Abc
+# 2 Data preprocessing
+## 2.1 Data exploration
+- Abc
+- Def
+- Ghi
 
-## Data cleansing
-Abc
+## 2.2 Data cleansing
+- Abc
+- Def
+- Ghi
 
-## Data preparation
-Abc
-## Data explanation
-Abc
+## 2.3 Data preparation
+- Abc
+- Def
+- Ghi
 
-## Data visualization (exploratory)
-Abc
+## 2.4 Data explanation
+- Abc
+- Def
+- Ghi
 
-# Predictive Analytics
-## Selecting a Model
-Abc
+## 2.5 Data visualization (exploratory)
+- Abc
+- Def
+- Ghi
 
-## Configuring a Model
-Abc
+# 3 Predictive Analytics
+## 3.1 Selecting a Model
+- Abc
+- Def
+- Ghi
 
-## Training a model
-Abc
+## 3.2 Configuring a Model
+- Abc
+- Def
+- Ghi
 
-## Evaluating a model
-Abc
+## 3.3 Training a model
+- Abc
+- Def
+- Ghi
 
-## Visualizing the outcome of a model (explanatory)
-Abc
+## 3.4 Evaluating a model
+- Abc
+- Def
+- Ghi
 
-# Communication
-## Presentations 
-Abc
+## 3.5 Visualizing the outcome of a model (explanatory)
+- Abc
+- Def
+- Ghi
 
-## Writing paper
-Abc
+# 4 Communication
+## 4.1 Presentations 
+- Abc
+- Def
+- Ghi
+
+## 4.2 Writing paper
+- Abc
+- Def
+- Ghi
