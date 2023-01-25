@@ -1,5 +1,8 @@
 Personal portfolio Richal Rambaran - 19029217
 
+# DataCamp course
+All DataCamp course completion statements can be found [here](https://github.com/TwoTimesR/Applied-data-science/tree/main/DataCamp%20statements).
+
 # Data preprocessing
 ## Data exploration
 Abc
