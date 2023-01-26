@@ -1,5 +1,5 @@
-Personal portfolio Richal Rambaran - 19029217
-All code found in this repository is written by me
+Personal portfolio Richal Rambaran - 19029217.<br/>
+All code found in this repository is written by me.
 
 # 1 DataCamp course
 All DataCamp course completion statements can be found in [DataCamp-statements](DataCamp-statements).
@@ -49,7 +49,7 @@ All DataCamp course completion statements can be found in [DataCamp-statements](
 
 # 4 Communication
 ## 4.1 Presentations 
-- Only missed 2 presentation throughout the semester,
+- Only missed 2 presentation throughout the semester.
 - All presentations in foodBoost project involved my progress [Presentations](Foodboost-project/Presentations).
 - Almost every presentations in container project involved my progress [Presentations](Container-project/Presentations).
 
