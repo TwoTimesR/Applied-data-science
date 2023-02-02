@@ -96,7 +96,8 @@ In my personal project I have written a cell dedicated to the pros and cons of l
 [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 4.<br/>
 
 ## 3.2 Configuring a Model
-- Configuring trainingsteps and parallel vectorized environments as well as linking output to logging files in container project [Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb).
+The PPO model was configured before training it in the container project. Some configuration settings, that are specific to the Stable Baselines 3 library, were changed. A very useful feature that Stable Baselines 3 provides, is the usage of Tensorboard. Tensorboard is a library with the purpose of visualizing the performance of AI models. It does this by creating logs during the training proces of the model. I decided to make use of Tensorboard as it would automate the visualization. I modifed several configurations of the model. First I created several directories to store the model's logs in. Then I specified the 'tensorboard_log' parameter to direct the model to the correct path to the log directory. After that I set the 'verbose' parameter to 1 to receive  information on device and wrappers if used. After the logging setup was finished, I specified the amount of vectorized environments to run during training. the Stable Baselines 3 library allows the model to train on multiple environment instances simultaneously. However, this wont be necessary in the moderately complex environment I programmed. It would also increase the training time significantly, thus 1 environment was used.
+[Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb), cells: 9, 10, 11, 13, 14.
 
 ## 3.3 Training a Model
 - Trained the final PPO model as endresult with hyperparameter tuning (research paper 'resultaten') [Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx).
