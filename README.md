@@ -1,12 +1,12 @@
 # Portfolio applied data science
 Student name: Richal Rambaran<br/>
-student ID: 19029217<br/>
+Student ID: 19029217<br/>
 Group: 4<br/>
 
 This portfolio can be navigated by its table of contents or by the icon left of the 'README.md' text.<br/>
 
 All cells within notebooks are numbered. Throughout this portfolio specific cell numbers are mentioned to make navigating notebooks easier.
-Use your browser's <kbd>Ctrl</kbd> + <kbd>F</kbd> function in notebooks to find these specific cells in case you want to look them up.<br/>
+Use your browser's <kbd>Ctrl</kbd> + <kbd>F</kbd> function in notebooks to find these specific cells in order to look them up.<br/>
 
 All code found in notebooks in this reposity is written by me.<br/>
 
@@ -50,8 +50,12 @@ All DataCamp course completion statements can be found in [DataCamp-statements](
 
 # 2. Data Preprocessing
 ## 2.1 Data Exploration
-- Visualizing distributions and outliers in foodboost project [Foodboost.ipynb](Foodboost-project/Code/Foodboost.ipynb).
-- Visualizing distributions, outliers and correlation in personal project [Salary_transforming.ipynb](Personal-project/Salary_transforming.ipynb).
+During the foodboost project I was tasked with exploring the nutrition dataset. This dataset contained all nutritional data of recipes. The column 'nutrition' contained 8 categories each with their respective unit of measurement and quantity in the 'value' column. I created visualizations for each category showing the spread of these quantities. Outliers and other noteworthy patterns were detected in this manner for further processing.<br/>
+[Foodboost.ipynb](Foodboost-project/Code/Foodboost.ipynb), cells: 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15.<br/>
+
+Visualizing distributions, outliers and correlation in personal project.
+In my personal project I was dealing with salary data with other various factors that can have an impact on a person's salary such age years of experience and industry. All these variables, after cleaning, were visualized in order to see the distributions and outliers. This helped decide, further down the line, how I was going to deal with these variables. Next I calculated Linear correlations between the variables after visualizing the distributions in order to see how helpful they would be when it comes down to predicting a person's salary. Finally I gave an early hypothesis on how useful the variables would be in the predictive modeling phase.
+[Salary_transforming.ipynb](Personal-project/Salary_transforming.ipynb), cells: 12, 15, 19, 20, 21, 24, 25, 26, 29, 30, 34, 37, 40, 43, 52, 53, 54.<br/>
 
 ## 2.2 Data Cleansing
 - Changing dtypes, renaming/removing/cleaning columns and removing outliers in foodboost project [Foodboost.ipynb](Foodboost-project/Code/Foodboost.ipynb).
