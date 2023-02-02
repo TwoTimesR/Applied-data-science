@@ -109,12 +109,12 @@ In my personal project I trained a linear regression, KNN and SVR model. The dat
 [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 5, 6, 9, 13.<br/>
 
 ## 3.4 Evaluating a Model
-Once the final PPO model finished training, I looked at its mean episode length and mean reward. The mean reward in particular is important since it indicates whether or not the model is performing well. With the help of the logging data and Tensorboard configured in [3.2 Configuring a Model](#32-configuring-a-model), creating visualization to evaluate the model has become an easy task for me. A mean reward of 200 is very good, considering 200 is the highest reward the model could achieve given the environment and rewardfunction.
+Once the final PPO model finished training, I looked at its mean episode length and mean reward. The mean reward in particular is important since it indicates whether or not the model is performing well. With the help of the logging data and Tensorboard configured in [3.2 Configuring a Model](#32-configuring-a-model), creating visualization to evaluate the model has become an easy task for me. A mean reward of 200 is very good, considering 200 is the highest reward the model could achieve given the environment and rewardfunction.Evaluating a Model
 [Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb), cells: 16, 17, 18.<br/>
 [PPO_finalized_mean_episode_length.PNG](Container-project/Code-visualizations/Finalized-model/final_ep_len_mean.PNG)<br/>
 [PPO_finalized_mean_reward.PNG](Container-project/Code-visualizations/Finalized-model/final_ep_rew_mean.PNG)<br/>
 
-The linear regression, KNN and SVR model in my personal project all deal with a regression problem. Therefore the important metrics for these models are also based around regression. The metrics used are: R squared, mean squared error and mean absolute error. In Cell 17 I compare the performance of the three models.<br/>
+The linear regression, KNN and SVR model in my personal project all deal with a regression problem. Therefore the important metrics for these models are also based around regression. The metrics used are: R squared, mean squared error and mean absolute error. In cell 17 I compare the performance of the three models.<br/>
 [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 6, 10, 14, 17.<br/>
 
 ## 3.5 Visualizing The Outcome of a Model (Explanatory)
