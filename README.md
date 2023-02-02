@@ -23,7 +23,7 @@ All code found in notebooks in this reposity is written by me.<br/>
   
   - [2.4 Data Explanation](#24-data-explanation)
   
-  - [2.5 Data Visualization (exploratory)](#25-data-visualization-exploratory)
+  - [2.5 Data Visualization (Exploratory)](#25-data-visualization-exploratory)
   
 [3. Predictive Analytics](#3-predictive-analytics)
 
@@ -35,7 +35,7 @@ All code found in notebooks in this reposity is written by me.<br/>
   
   - [3.4 Evaluating a Model](#34-evaluating-a-model)
   
-  - [3.5 Visualizing the Outcome of a Model (explanatory)](#35-visualizing-the-outcome-of-a-model-explanatory)
+  - [3.5 Visualizing The Outcome of a Model (Explanatory)](#35-visualizing-the-outcome-of-a-model-explanatory)
   
 [4. Communication](#4-communication)
 
