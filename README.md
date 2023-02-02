@@ -109,20 +109,25 @@ In my personal project I trained a linear regression, KNN and SVR model. The dat
 [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 5, 6, 9, 13.<br/>
 
 ## 3.4 Evaluating a Model
-- Used tensorboard logging to visualize final PPO model performance in container project [Finalized-model](Container-project/Code-visualizations/Finalized-model).
-- Used different regression metrics to evaluate linear regression, KNN and SVR in personal project [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb).
+Once the final PPO model finished training, I looked at its mean episode length and mean reward. The mean reward in particular is important since it indicates whether or not the model is performing well. With the help of the logging data and Tensorboard configured in [3.2 Configuring a Model](#32-configuring-a-model), creating visualization to evaluate the model has become an easy task for me. A mean reward of 200 is very good, considering 200 is the highest reward the model could achieve given the environment and rewardfunction.
+[Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb), cells: 16, 17, 18.<br/>
+[PPO_finalized_mean_episode_length.PNG](Container-project/Code-visualizations/Finalized-model/final_ep_len_mean.PNG)<br/>
+[PPO_finalized_mean_reward.PNG](Container-project/Code-visualizations/Finalized-model/final_ep_rew_mean.PNG)<br/>
+
+The linear regression, KNN and SVR model in my personal project all deal with a regression problem. Therefore the important metrics for these models are also based around regression. The metrics used are: R squared, mean squared error and mean absolute error. In Cell 17 I compare the performance of the three models.<br/>
+[Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 6, 10, 14, 17.<br/>
 
 ## 3.5 Visualizing The Outcome of a Model (Explanatory)
 - Created a gif of predicted steps of final PPO model + programmed function with image output in container project [steps.gif](Container-project/Code-visualizations/Finalized-model-predictions/steps.gif).
 - Plotted actual values and predicten values from linear regression, KNN and SVR in personal project [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb).
 
-# 4. Communication
-## 4.1 Presentations 
+# 4. Communication NOT DONE YET
+## 4.1 Presentations NOT DONE YET
 - Only missed 2 presentation throughout the semester.
 - All presentations in foodBoost project involved my progress [Presentations](Foodboost-project/Presentations).
 - Almost every presentations in container project involved my progress [Presentations](Container-project/Presentations).
 
-## 4.2 Writing Paper
+## 4.2 Writing Paper NOT DONE YET
 - Assisted in formulating research questions (hoofdvraag/deelvragen) of container project with team member Akram [Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx).
 - Assisted in terminology and visualizing a container yard example (literatuuronderzoek) for research paper of container project with team member Jesse[Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx).
 - Wrote 'resultaten' in research paper of container project [Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx).
