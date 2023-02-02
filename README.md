@@ -117,7 +117,7 @@ Once the final PPO model finished training, I looked at its mean episode length 
 The linear regression, KNN and SVR model in my personal project all deal with a regression problem. Therefore the important metrics for these models are also based around regression. The metrics used are: R squared, mean squared error and mean absolute error. In cell 17 I compare the performance of the three models.<br/>
 [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 6, 10, 14, 17.<br/>
 
-## 3.5 Visualizing The Outcome of a Model (Explanatory)
+## 3.5 Visualizing The Outcome of a Model (Explanatory) NOT DONE YET
 - Created a gif of predicted steps of final PPO model + programmed function with image output in container project [steps.gif](Container-project/Code-visualizations/Finalized-model-predictions/steps.gif).
 - Plotted actual values and predicten values from linear regression, KNN and SVR in personal project [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb).
 
