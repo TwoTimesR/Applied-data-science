@@ -76,8 +76,11 @@ In my personal project some variables needed to undergo some more sophisticated 
 [Salary_transforming.ipynb](Personal-project/Salary_transforming.ipynb), cells: 5, 6, 7, 13, 14, 16, 17, 18, 31, 32, 33, 35, 36, 38, 39, 41, 42, 44, 45, 46.<br/>
 
 ## 2.4 Data Explanation
-- Explaining how components of the environment work through example code in container project (bottom of notebook) [Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb).
-- Explaining of sourced data in personal project [Salary_cleaning.ipynb](Personal-project/Salary_cleaning.ipynb).
+The class components in the container project were something I had to explain to my team members quite often. At some point I wrote some explanatory code showing how the different components interact with each other.<br/>
+[Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb), cells: 19.<br/>
+
+The dataset used in my personal project has a cell dedicated to explaining the data. It explains where the data was retrieved from, how it got created, how old it is and what it is composed of. The dataset is relatively simple and does not require any expertise to understand but it is always helpful to have context regarding data.<br/>
+[Salary_cleaning.ipynb](Personal-project/Salary_cleaning.ipynb), cells: 4.<br/>
 
 ## 2.5 Data Visualization (exploratory)
 - Visualizing 8 nutrition categories for future model usage [Foodboost.ipynb](Foodboost-project/Code/Foodboost.ipynb).
