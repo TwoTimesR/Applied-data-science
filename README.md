@@ -54,7 +54,7 @@ During the foodboost project I was tasked with exploring the nutrition dataset. 
 [Foodboost.ipynb](Foodboost-project/Code/Foodboost.ipynb), cells: 2, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15.<br/>
 
 Visualizing distributions, outliers and correlation in personal project.
-In my personal project I was dealing with salary data with other various factors that can have an impact on a person's salary such age years of experience and industry. All these variables, after cleaning, were visualized in order to see the distributions and outliers. This helped decide, further down the line, how I was going to deal with these variables. Next I calculated Linear correlations between the variables after visualizing the distributions in order to see how helpful they would be when it comes down to predicting a person's salary. Finally I gave an early hypothesis on how useful the variables would be in the predictive modeling phase.
+In my personal project I was dealing with salary data with other various factors that can have an impact on a person's salary such age years of experience and industry. All these variables, after cleaning, were visualized in order to see the distributions and outliers. This helped decide how I was going to deal with these variables further down the line. Next I calculated linear correlations between the variables in order to see how helpful they would be when it comes down to predicting a person's salary. Finally I gave an early hypothesis on how useful the variables would be in the predictive modeling phase.<br/>
 [Salary_transforming.ipynb](Personal-project/Salary_transforming.ipynb), cells: 12, 15, 19, 20, 21, 24, 25, 26, 29, 30, 34, 37, 40, 43, 52, 53, 54.<br/>
 
 ## 2.2 Data Cleansing
