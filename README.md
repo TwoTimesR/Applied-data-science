@@ -89,8 +89,8 @@ In the foodboost project the visualization mainly revolve around histograms and 
 # 3. Predictive Analytics
 ## 3.1 Selecting a Model
 In the container project the library, Stable Baselines 3, gave some technical guidance on which models could be used best. The environment I programmed has an observation space: the library's way of specifying how the state of the envrionment gets represented. In this case a 'Box' observation space. This observation space works best with either the PPO or A2C model. Team member TJ conducted literary research to see which model would be better suited to use and come to the conclusion that PPO would perform better. In addition to TJ's literary research I decided to test out the perfomance of PPO and A2C models with the first version of the rewardfunction of the environment in order to validate TJ's conclusion. The results do show PPO outperforming A2C under identical circumstances. PPO is able to achieve a greater mean reward and shorter mean episode length, both of which are positive indicators.<br/>
-[PPO vs A2C mean episode length](#Container-project/Code-visualizations/PPO-compared-to-A2C).<br/>
-[PPO vs A2C mean reward](#Container-project/Code-visualizations/PPO-compared-to-A2C).<br/>
+[PPO vs A2C mean episode length](Container-project/Code-visualizations/PPO-compared-to-A2C/ep_len_mean.PNG).<br/>
+[PPO vs A2C mean reward](Container-project/Code-visualizations/PPO-compared-to-A2C/ep_rew_mean.PNG).<br/>
 
 In my personal project I have written a cell dedicated to the pros and cons of linear regression, KNN and SVR models along with relevant literature.<br/>
 [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 4.<br/>
