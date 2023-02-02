@@ -82,8 +82,9 @@ The class components in the container project were something I had to explain to
 The dataset used in my personal project has a cell dedicated to explaining the data. It explains where the data was retrieved from, how it got created, how old it is and what it is composed of. The dataset is relatively simple and does not require any expertise to understand but it is always helpful to have context regarding data.<br/>
 [Salary_cleaning.ipynb](Personal-project/Salary_cleaning.ipynb), cells: 4.<br/>
 
-## 2.5 Data Visualization (exploratory)
-- Visualizing 8 nutrition categories for future model usage [Foodboost.ipynb](Foodboost-project/Code/Foodboost.ipynb).
+## 2.5 Data Visualization (Exploratory)
+In the foodboost project the visualization mainly revolve around histograms and boxplots for each nutrition category. These were used both for outlier detection and gaining an understanding of what model would be appropriate to use. Team member Charlie eventually chose a model to use based on these insights.<br/>
+[Foodboost.ipynb](Foodboost-project/Code/Foodboost.ipynb), cells: 6, 7, 8, 9, 10, 11, 12, 13, 14.<br/>
 
 # 3. Predictive Analytics
 ## 3.1 Selecting a Model
@@ -103,7 +104,7 @@ The dataset used in my personal project has a cell dedicated to explaining the d
 - Used tensorboard logging to visualize final PPO model performance in container project [Finalized-model](Container-project/Code-visualizations/Finalized-model).
 - Used different regression metrics to evaluate linear regression, KNN and SVR in personal project [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb).
 
-## 3.5 Visualizing the Outcome of a Model (explanatory)
+## 3.5 Visualizing The Outcome of a Model (Explanatory)
 - Created a gif of predicted steps of final PPO model + programmed function with image output in container project [steps.gif](Container-project/Code-visualizations/Finalized-model-predictions/steps.gif).
 - Plotted actual values and predicten values from linear regression, KNN and SVR in personal project [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb).
 
