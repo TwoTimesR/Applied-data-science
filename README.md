@@ -79,7 +79,7 @@ In my personal project some variables needed to undergo some more sophisticated 
 The class components in the container project were something I had to explain to my team members quite often. At some point I wrote some explanatory code showing how the different components interact with each other.<br/>
 [Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb), cells: 19.<br/>
 
-The dataset used in my personal project has a cell dedicated to explaining the data. It explains where the data was retrieved from, how it got created, how old it is and what it is composed of. The dataset is relatively simple and does not require any expertise to understand but it is always helpful to have context regarding data.<br/>
+The dataset used in my personal project has a cell dedicated to explaining the data. It explains where the data was retrieved from, how it got created, how old it is and what it is composed of. The dataset is relatively simple and doesn't require any expertise to understand but it is always helpful to have context regarding data.<br/>
 [Salary_cleaning.ipynb](Personal-project/Salary_cleaning.ipynb), cells: 4.<br/>
 
 ## 2.5 Data Visualization (Exploratory)
@@ -100,8 +100,11 @@ The PPO model was configured before training it in the container project. Some c
 [Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb), cells: 9, 10, 11, 13, 14.<br/>
 
 ## 3.3 Training a Model
-- Trained the final PPO model as endresult with hyperparameter tuning (research paper 'resultaten') [Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx).
-- Trained a linear regression, KNN and SVR model in personal project [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb).
+The final PPO model in the container project was trained with the optimal hyperparameter values in order to maximize performance. The hyperparameters that have the most influence on the model's performance were chosen for optimization: 'learning_rate', 'gamma', 'gae_lambda', 'ent_coef' and 'vf_coef'. Each hyperparameter was assigned a list of values. Each time a PPO model was trained for 500k steps with a single value of the list of a hyperparameter while the other hyperparameter values were kept on default. In the end a model was trained for each value for each hyperparameter. I chose the optimal hyperparameter value for their respective hyperparameter, out of all the models. These optimal values were then used for the final model. Overfitting and underfitting are not applicable due to reinforcement learning being quite different that machine learning and deep learning. It doesn't require historical data since it relies on simulation.<br/>
+[Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb), cells: 13, 14, 15.<br/>
+
+In my personal project I trained a linear regression, KNN and SVR model. The data is split in train and test data in order to evaluate the models later. The models undergo hyperparameter tuning and with the help of the Sklearn library's 'GridSearchCV' function, the best combination of hyperparameters can be found for KNN and SVR. Linear regression doesnt have hyperparameters to tune. I used the 'cross_val_score' function from the Sklearn library In order to prevent overfitting. The function splits the data in 5 folds to train the data on 4 folds and test it out on the remaining 1 fold. It then switches which fold becomes the remaing 1 and repeats the proces for every fold. This measurement gives insight in the training proces and helps with identifying overfitting in case it emerges.<br/>
+[Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 5, 6, 9, 13.<br/>
 
 ## 3.4 Evaluating a Model
 - Used tensorboard logging to visualize final PPO model performance in container project [Finalized-model](Container-project/Code-visualizations/Finalized-model).
