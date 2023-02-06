@@ -122,12 +122,12 @@ With the finalized PPO model being trained and evaluated in the container projec
 [Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb), cells: 6, 18.<br/>
 [Container_predictions.gif](Container-project/Code-visualizations/Finalized-model-predictions/steps.gif).<br/>
 
-After evaluating the linear regression, KNN and SVR model, I plotted the outcomes as scatter plots. The variable that has the best linear correlation with salary is compensation (0.43), so I decided to use these 2 variables to create the scatter plot. each model has 2 scatter plots. A blue scatter plot with both compensation and salary test values and a red plot with compensation test values and predicted salary values created with the compensation test values. A moderate linear trend can be seen in the red scatter plots. The output is a quantitative representation of what the models predictions and how they compare to one another.<br/>
+After evaluating the linear regression, KNN and SVR model in my personal project, I plotted the outcomes as scatter plots. The variable that has the best linear correlation with salary is compensation (0.43), so I decided to use these 2 variables to create the scatter plot. each model has 2 scatter plots. A blue scatter plot with both compensation and salary test values and a red plot with compensation test values and predicted salary values created with the compensation test values. A moderate linear trend can be seen in the red scatter plots. The output is a quantitative representation of what the models predictions and how they compare to one another.<br/>
 [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 7, 8, 11, 12, 15, 16.<br/>
 
 # 4. Communication
 ## 4.1 Presentations NOT DONE YET
-- Only missed 2 presentation throughout the semester.
+xyz
 - All presentations in foodBoost project involved my progress [Presentations](Foodboost-project/Presentations).
 - Almost every presentations in container project involved my progress [Presentations](Container-project/Presentations).
 
