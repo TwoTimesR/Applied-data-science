@@ -6,7 +6,7 @@ Group: 4<br/>
 This portfolio can be navigated by its table of contents or by the icon left of the 'README.md' text.<br/>
 
 All cells within notebooks are numbered. Throughout this portfolio specific cell numbers are mentioned to make navigating notebooks easier.
-Use your browser's <kbd>Ctrl</kbd> + <kbd>F</kbd> function in notebooks to find these specific cells in order to look them up.<br/>
+Use your browser's <kbd>Ctrl</kbd> + <kbd>F</kbd> function in notebooks in order to find these specific cells. Simply type 'CELL X' with 'X' being the cell number.<br/>
 
 All code found in notebooks in this reposity is written by me.<br/>
 
@@ -46,7 +46,7 @@ All code found in notebooks in this reposity is written by me.<br/>
 [5. Extra](#5-extra)
 
 # 1. DataCamp Courses
-All DataCamp course completion statements can be found in [DataCamp-statements](DataCamp-statements).
+All DataCamp course completion statements can be found in [DataCamp-statements](DataCamp-statements). I have completed all 16 assigned courses.
 
 # 2. Data Preprocessing
 ## 2.1 Data Exploration
@@ -64,7 +64,7 @@ The salary dataset in my personal project had to be very heavily cleaned. This d
 [Salary_cleaning.ipynb](Personal-project/Salary_cleaning.ipynb), cells: 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40.<br/>
 
 ## 2.3 Data Preparation
-Activities performed in [2.2 Data Cleansing](#22-data-cleansing) regarding transformations, outlier removal and filling missing values could technically belong to this chapter as well. However, due to cleansing and preparation being very close in nature, this chapter will mainly focus on preparation of simulated and generated data, which doesnt really belong to 'data cleansing' but still played a large role in projects.<br/>
+Activities performed in [2.2 Data Cleansing](#22-data-cleansing) regarding transformations, outlier removal and filling missing values could technically belong to this chapter as well. However, due to cleansing and preparation being very close in nature, this chapter will mainly focus on preparation of simulated and generated data, which doesn't really belong to 'data cleansing' but still played a large role in projects.<br/>
 
 In the container project all tasks concerning programming were entrusted to me. During the project reinforcement learning was heavily used and such the 'data' was an environment for the model to exist in and interact with. The first task I worked on was programming the necessary class components for the environment: a block on the container yard, a location within a block, a container, a vessel holding the container and a dock for the vessels. These classes were created each with their needed attributes and functions in order to work properly in the environment. The next task I took on was the custom made environment. The class components got implemented in the environment. Another important part was designing and programming the reward function of the environment. The model is very dependant on how this function operates and will ultimately decide its performance in later stages. Once the environment was done a model could be used to train with it.<br/>
 [Container_Environment.ipynb](Container-project/Code/Container_Environment.ipynb), cells: 2, 3, 4, 5, 7.<br/>
@@ -105,7 +105,7 @@ The final PPO model in the container project was trained with the optimal hyperp
 [Hyperparameter_values.xlsx](Container-project/Hyperparameter-values.xlsx).<br/>
 [Hyperparameter_performance.PNG](Container-project/Code-visualizations/Hyperparameter-tuning/hyperparameter_performance.PNG).<br/>
 
-In my personal project I trained a linear regression, KNN and SVR model. The data is split in train and test data in order to evaluate the models later. The models undergo hyperparameter tuning and with the help of the Sklearn library's 'GridSearchCV' function, the best combination of hyperparameters can be found for KNN and SVR. Linear regression doesnt have hyperparameters to tune. I used the 'cross_val_score' function from the Sklearn library In order to prevent overfitting. The function splits the data in 5 folds to train the data on 4 folds and test it out on the remaining 1 fold. It then switches which fold becomes the remaing 1 and repeats the proces for every fold. This measurement gives insight in the training proces and helps with identifying overfitting in case it emerges.<br/>
+In my personal project I trained a linear regression, KNN and SVR model. The data is split in train and test data in order to evaluate the models later. The models undergo hyperparameter tuning and with the help of the Sklearn library's 'GridSearchCV' function, the best combination of hyperparameters can be found for KNN and SVR. Linear regression doesn't have hyperparameters to tune. I used the 'cross_val_score' function from the Sklearn library In order to prevent overfitting. The function splits the data in 5 folds to train the data on 4 folds and test it out on the remaining 1 fold. It then switches which fold becomes the remaing 1 and repeats the proces for every fold. This measurement gives insight in the training proces and helps with identifying overfitting in case it emerges.<br/>
 [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 5, 6, 9, 13.<br/>
 
 ## 3.4 Evaluating a Model
@@ -126,16 +126,29 @@ After evaluating the linear regression, KNN and SVR model in my personal project
 [Salary_predicting.ipynb](Personal-project/Salary_predicting.ipynb), cells: 7, 8, 11, 12, 15, 16.<br/>
 
 # 4. Communication
-## 4.1 Presentations NOT DONE YET
-xyz
-- All presentations in foodBoost project involved my progress [Presentations](Foodboost-project/Presentations).
-- Almost every presentations in container project involved my progress [Presentations](Container-project/Presentations).
+## 4.1 Presentations
+I have given presentations on every occasion throughout the semester with exception of 1. The slide numbers next to each presentations mean the slide has both been created and presented by me. Several other slides were also created by me but were presented by other team members and therefore aren't listed.<br/>
 
-## 4.2 Writing Paper NOT DONE YET
-- Assisted in formulating research questions (hoofdvraag/deelvragen) of container project with team member Akram [Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx).
-- Assisted in terminology and visualizing a container yard example (literatuuronderzoek) for research paper of container project with team member Jesse[Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx).
-- Wrote 'resultaten' in research paper of container project [Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx).
-- Wrote 'discussie' in research paper of container project [Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx).
+**Foodboost project**
+- [Interne-presentatie-week-2-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-2-groep-4.pptx), slides: 5.
+- [Interne-presentatie-week-4-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-4-groep-4.pptx), slides: 4, 5, 6.
+- [Interne-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-6-groep-4.pptx), slides: 3, 4.
+- [Externe-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Externe-presentatie-week-6-groep-4.pptx), slides: -.<br/>
+
+**Container project**
+- [Interne-presentatie-week-8-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-8-groep-4.pptx), slides: 4, 5.
+- [Interne-presentatie-week-10-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-10-groep-4.pptx), slides: 6, 7.
+- [Externe-presentatie-week-10-groep-4.pptx](Container-project/Presentations/Externe-presentatie-week-10-groep-4.pptx), slides: 8, 9, 10, 11.
+- [Interne-presentatie-week-12-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-12-groep-4.pptx), slides: 3, 4.
+- [Interne-presentatie-week-14-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-14-groep-4.pptx), slides: 4, 5.
+- [Externe-presentatie-week-14-groep-4.pptx](Container-project/Presentations/Externe-presentatie-week-14-groep-4.pptx), slides: 5, 6, 7, 8, 9.
+- [Interne-presentatie-week-16-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-16-groep-4.pptx), slides: 4, 5.
+- [Interne-presentatie-week-18-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-18-groep-4.pptx), slides: 4, 5.
+- [Externe-presentatie-week-20-groep-4.pptx](Container-project/Presentations/Externe-presentatie-week-20-groep-4.pptx), slides: 10, 11, 12.<br/>
+
+## 4.2 Writing Paper
+In the container project I wrote the chapters 'resultaten' and 'discussie'. This was done on purpose as most of my work has to do with writing the code and producing the results as well as interpreting the results. I also assistded team member Akram with formulating and refining the rsearch question over the course of the project. Lastly I played a role in some of the terminology research needed for the chapter 'literatuuronderzoek'. I helped team member Jesse with some of the terms such as 'row', 'bay' and 'tier' and created an intuitive visualization of a fictional example of a [container yard](Container-project/Container-yard-visualizations/Container-yard-example.png).<br/>
 
 # 5. Extra
-- helped team member Akram with some coding in his personal portfolio.
+- I helped team member Akram with some coding in his personal portfolio.
+- I created some or assisted with some slides in presentations for other team members.
