@@ -46,7 +46,7 @@ All code found in notebooks in this reposity is written by me.<br/>
 [5. Extra](#5-extra)
 
 # 1. DataCamp Courses
-All DataCamp course completion statements can be found in [DataCamp-statements](DataCamp-statements). I have completed all 16 assigned courses.
+All individual DataCamp course completion statements can be found in [DataCamp-statements](DataCamp-statements). I have completed all 16 assigned courses. For all statements in a single file see [Statements-merged.pdf](DataCamp-statements/Statements-merged.pdf).
 
 # 2. Data Preprocessing
 ## 2.1 Data Exploration
