@@ -167,7 +167,7 @@ I have given presentations on every occasion throughout the semester with except
 ## 4.2 Writing Paper
 In the container project I wrote the chapters 'resultaten' and 'discussie'. This was done on purpose as most of my work has to do with writing the code and producing the results as well as interpreting the results. I also assistded team member Akram with formulating and refining the rsearch question over the course of the project. Lastly I played a role in some of the terminology research needed for the chapter 'literatuuronderzoek'. I helped team member Jesse with some of the terms such as 'row', 'bay' and 'tier' and created an intuitive visualization of a fictional example of a [container yard](Container-project/Container-yard-visualizations/Container-yard-example.png).<br/>
 - MS Word: [Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx)<br/>
-- PDF: [Container-project/Research-Paper-Container-Project.pdf](Container-project/Research-Paper-Container-Project.pdf)<br/>
+- PDF: [Research-Paper-Container-Project.pdf](Container-project/Research-Paper-Container-Project.pdf)<br/>
 
 # 5. Extra
 - I helped team member Akram with some coding in his personal portfolio.
