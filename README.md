@@ -148,24 +148,26 @@ After evaluating the linear regression, KNN and SVR model in my personal project
 I have given presentations on every occasion throughout the semester with exception of 1. The slide numbers next to each presentations mean the slide has both been created and presented by me. Several other slides were also created by me but were presented by other team members and therefore aren't listed.<br/>
 
 **Foodboost project**
-- [Interne-presentatie-week-2-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-2-groep-4.pptx), slides: [5](Foodboost-project/Presentations/Personal-slides/Intern-week-2-slide-5.png).
-- [Interne-presentatie-week-4-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-4-groep-4.pptx), slides: [4](Foodboost-project/Presentations/Personal-slides/Intern-week-4-slide-4.png), [5](Foodboost-project/Presentations/Personal-slides/Intern-week-4-slide-5.png), [6](Foodboost-project/Presentations/Personal-slides/Intern-week-4-slide-6.png).
-- [Interne-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-6-groep-4.pptx), slides: 3, 4.
-- [Externe-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Externe-presentatie-week-6-groep-4.pptx), slides: -.<br/>
+- [Interne-presentatie-week-2-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-2-groep-4.pptx), slide images: [5](Foodboost-project/Presentations/Personal-slides/Intern-week-2-slide-5.png).
+- [Interne-presentatie-week-4-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-4-groep-4.pptx), slide images: [4](Foodboost-project/Presentations/Personal-slides/Intern-week-4-slide-4.png), [5](Foodboost-project/Presentations/Personal-slides/Intern-week-4-slide-5.png), [6](Foodboost-project/Presentations/Personal-slides/Intern-week-4-slide-6.png).
+- [Interne-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-6-groep-4.pptx), slide images: [3](Foodboost-project/Presentations/Personal-slides/Intern-week-6-slide-3.png), [4](Foodboost-project/Presentations/Personal-slides/Intern-week-6-slide-4.png).
+- [Externe-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Externe-presentatie-week-6-groep-4.pptx), slide images: -.<br/>
 
 **Container project**
-- [Interne-presentatie-week-8-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-8-groep-4.pptx), slides: 4, 5.
-- [Interne-presentatie-week-10-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-10-groep-4.pptx), slides: 6, 7.
-- [Externe-presentatie-week-10-groep-4.pptx](Container-project/Presentations/Externe-presentatie-week-10-groep-4.pptx), slides: 8, 9, 10, 11.
-- [Interne-presentatie-week-12-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-12-groep-4.pptx), slides: 3, 4.
-- [Interne-presentatie-week-14-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-14-groep-4.pptx), slides: 4, 5.
-- [Externe-presentatie-week-14-groep-4.pptx](Container-project/Presentations/Externe-presentatie-week-14-groep-4.pptx), slides: 5, 6, 7, 8, 9.
-- [Interne-presentatie-week-16-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-16-groep-4.pptx), slides: 4, 5.
-- [Interne-presentatie-week-18-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-18-groep-4.pptx), slides: 4, 5.
-- [Externe-presentatie-week-20-groep-4.pptx](Container-project/Presentations/Externe-presentatie-week-20-groep-4.pptx), slides: 10, 11, 12.<br/>
+- [Interne-presentatie-week-8-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-8-groep-4.pptx), slide images: [4](Container-project/Presentations/Personal-slides/Intern-week-8-slide-4.png), [5](Container-project/Presentations/Personal-slides/Intern-week-8-slide-5.png).
+- [Interne-presentatie-week-10-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-10-groep-4.pptx), slide images: [6](Container-project/Presentations/Personal-slides/Intern-week-10-slide-6.png), [7](Container-project/Presentations/Personal-slides/Intern-week-10-slide-7.png).
+- [Externe-presentatie-week-10-groep-4.pptx](Container-project/Presentations/Externe-presentatie-week-10-groep-4.pptx), slide images: [8](Container-project/Presentations/Personal-slides/Extern-week-10-slide-8.png), [9](Container-project/Presentations/Personal-slides/Extern-week-10-slide-9.png), [10](Container-project/Presentations/Personal-slides/Extern-week-10-slide-10.png), [11](Container-project/Presentations/Personal-slides/Extern-week-10-slide-11.png).
+- [Interne-presentatie-week-12-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-12-groep-4.pptx), slide images: [3](Container-project/Presentations/Personal-slides/Intern-week-12-slide-3.png), [4](Container-project/Presentations/Personal-slides/Intern-week-12-slide-4.png).
+- [Interne-presentatie-week-14-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-14-groep-4.pptx), slide images: [4](Container-project/Presentations/Personal-slides/Intern-week-14-slide-4.png), [5](Container-project/Presentations/Personal-slides/Intern-week-14-slide-5.png).
+- [Externe-presentatie-week-14-groep-4.pptx](Container-project/Presentations/Externe-presentatie-week-14-groep-4.pptx), slide images: [5](Container-project/Presentations/Personal-slides/Extern-week-14-slide-5.png), [6](Container-project/Presentations/Personal-slides/Extern-week-14-slide-6.png), [7](Container-project/Presentations/Personal-slides/Extern-week-14-slide-7.png), [8](Container-project/Presentations/Personal-slides/Extern-week-14-slide-8.png), [9](Container-project/Presentations/Personal-slides/Extern-week-14-slide-9.png).
+- [Interne-presentatie-week-16-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-16-groep-4.pptx), slide images: [4](Container-project/Presentations/Personal-slides/Intern-week-16-slide-4.png), [5](Container-project/Presentations/Personal-slides/Intern-week-16-slide-5.png).
+- [Interne-presentatie-week-18-groep-4.pptx](Container-project/Presentations/Interne-presentatie-week-18-groep-4.pptx), slide images: [4](Container-project/Presentations/Personal-slides/Intern-week-18-slide-4.png), [5](Container-project/Presentations/Personal-slides/Intern-week-18-slide-5.png).
+- [Externe-presentatie-week-20-groep-4.pptx](Container-project/Presentations/Externe-presentatie-week-20-groep-4.pptx), slide images: [10](Container-project/Presentations/Personal-slides/Extern-week-20-slide-10.png), [11](Container-project/Presentations/Personal-slides/Extern-week-20-slide-11.png), [12](Container-project/Presentations/Personal-slides/Extern-week-20-slide-12.png).<br/>
 
 ## 4.2 Writing Paper
 In the container project I wrote the chapters 'resultaten' and 'discussie'. This was done on purpose as most of my work has to do with writing the code and producing the results as well as interpreting the results. I also assistded team member Akram with formulating and refining the rsearch question over the course of the project. Lastly I played a role in some of the terminology research needed for the chapter 'literatuuronderzoek'. I helped team member Jesse with some of the terms such as 'row', 'bay' and 'tier' and created an intuitive visualization of a fictional example of a [container yard](Container-project/Container-yard-visualizations/Container-yard-example.png).<br/>
+- MS Word: [Research-Paper-Container-Project.docx](Container-project/Research-Paper-Container-Project.docx)<br/>
+- PDF: [Container-project/Research-Paper-Container-Project.pdf](Container-project/Research-Paper-Container-Project.pdf)<br/>
 
 # 5. Extra
 - I helped team member Akram with some coding in his personal portfolio.
