@@ -148,7 +148,7 @@ After evaluating the linear regression, KNN and SVR model in my personal project
 I have given presentations on every occasion throughout the semester with exception of 1. The slide numbers next to each presentations mean the slide has both been created and presented by me. Several other slides were also created by me but were presented by other team members and therefore aren't listed.<br/>
 
 **Foodboost project**
-- [Interne-presentatie-week-2-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-2-groep-4.pptx), slides: 5.
+- [Interne-presentatie-week-2-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-2-groep-4.pptx), slides: [5](Foodboost-project/Presentations/Personal-slides/Intern-week-2-slide-5.png).
 - [Interne-presentatie-week-4-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-4-groep-4.pptx), slides: 4, 5, 6.
 - [Interne-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-6-groep-4.pptx), slides: 3, 4.
 - [Externe-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Externe-presentatie-week-6-groep-4.pptx), slides: -.<br/>
