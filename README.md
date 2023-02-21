@@ -149,7 +149,7 @@ I have given presentations on every occasion throughout the semester with except
 
 **Foodboost project**
 - [Interne-presentatie-week-2-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-2-groep-4.pptx), slides: [5](Foodboost-project/Presentations/Personal-slides/Intern-week-2-slide-5.png).
-- [Interne-presentatie-week-4-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-4-groep-4.pptx), slides: 4, 5, 6.
+- [Interne-presentatie-week-4-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-4-groep-4.pptx), slides: [4](Foodboost-project/Presentations/Personal-slides/Intern-week-4-slide-4.png), [5](Foodboost-project/Presentations/Personal-slides/Intern-week-4-slide-5.png), [6](Foodboost-project/Presentations/Personal-slides/Intern-week-4-slide-6.png).
 - [Interne-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Interne-presentatie-week-6-groep-4.pptx), slides: 3, 4.
 - [Externe-presentatie-week-6-groep-4.pptx](Foodboost-project/Presentations/Externe-presentatie-week-6-groep-4.pptx), slides: -.<br/>
 
